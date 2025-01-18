@@ -1,7 +1,13 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-meta charset="UTF-8">
+<meta name="desciption" content="Actividad web hecha por Diana,Yumara y Abel>
+    <title>Trabajo web</title>
+    <link rel="stylesheet" href="./css/estilo.css">
+</head>
+<body class="pagina">
+    <a href="index.html">Inicio</a> | <a href="nosotros.html">Nosotros</a> | <a href="contacto.html">Contacto</a>
+    <br>
 
 
 
